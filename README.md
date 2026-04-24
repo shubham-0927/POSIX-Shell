@@ -1,6 +1,6 @@
-# AOS Assignemnt 2
 
-POSIX shell implementation.
+
+# POSIX shell implementation.
 
 ## To run program
 
